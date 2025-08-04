@@ -1,2 +1,2 @@
 # devweb
-Repository for web development dicipline
+Repository for web development discipline
